@@ -1,5 +1,5 @@
 #Advent of code
-#Problem 2
+#Problem 3
 #--- Day 3: Rucksack Reorganization ---
 
 
